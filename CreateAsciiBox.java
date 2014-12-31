@@ -12,7 +12,6 @@ public class CreateAsciiBox {
   *
   * Facebook.com/KernelCode 
   * AbdullahAltahery@gmail.com
-  * facebook.com/kernelcode
   */
 
   /* return a number of Spaces */
